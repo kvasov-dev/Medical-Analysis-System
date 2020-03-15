@@ -6,6 +6,8 @@
 примерный диагноз, динамику (если была сделана серия анализов).
 
 [Trello](https://trello.com/b/BsZ0qB4i/medical-analysis-system)  
+[Miro](https://miro.com/app/board/o9J_kuk4pQ4=/)
+[Figma](https://www.figma.com/file/KG1fZqcLvF1VskqCBCmi2c/%D0%9F%D0%9E-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D0%B4-%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%BE%D1%80%D0%B8%D0%B8?node-id=2%3A86)
 
 
 Роли: 

@@ -20,10 +20,18 @@
 
 [Swagger](https://afternoon-caverns-91263.herokuapp.com/swagger-ui.html)
 
+[Диаграммы](https://github.com/kvasov-dev/Medical-Analysis-System/tree/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B)
+
+[Презентация](https://github.com/kvasov-dev/Medical-Analysis-System/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pptx)
+
+[Видео](https://youtu.be/F4GFt8F43MY)
 
 
-## Роли: 
+## Контакты: 
 
-Андрей Квасов(группа 4.1) - аналитика, документация, клиентская часть(front-end), тестирование. 
+Андрей Квасов(группа 4.1) - анализ, документация, клиентская часть(front-end), проектирование.
+kvasoff.an@gmail.com
+ 
 
 Клишин Илья(группа 4.2) - серверная часть(back-end), front-end.
+klassoi@yandex.ru

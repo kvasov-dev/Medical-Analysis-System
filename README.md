@@ -16,6 +16,10 @@
 
 [Back-end](https://github.com/floatint/mas_back)
 
+[Front-end](https://github.com/floatint/mas_front)
+
+[Swagger](https://afternoon-caverns-91263.herokuapp.com/swagger-ui.html)
+
 
 
 ## Роли: 
